@@ -1,0 +1,26 @@
+# Keil build outputs
+Objects/
+Listings/
+Debug/
+Release/
+build/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.axf
+*.map
+*.lst
+*.crf
+*.d
+*.dep
+*.bak
+*.uvguix.*
+*.uvoptx
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
