@@ -1,0 +1,14 @@
+#ifndef STM32F10X_CONF_H
+#define STM32F10X_CONF_H
+
+#include "stm32f10x_adc.h"
+#include "stm32f10x_exti.h"
+#include "stm32f10x_flash.h"
+#include "stm32f10x_gpio.h"
+#include "stm32f10x_i2c.h"
+#include "stm32f10x_rcc.h"
+#include "misc.h"
+
+#define assert_param(expr) ((void)0)
+
+#endif
